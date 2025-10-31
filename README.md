@@ -6,12 +6,12 @@ Built using HTML, CSS, and JavaScript.
 
 MAIN FEATURES:-
 
-1.Single-page navigation for quick access.
+1. Single-page navigation for quick access.
 
-2.Interactive modals with more details for each landmark.
+2. Interactive modals with more details for each landmark.
 
-3.Dedicated sections for tourist guides, foods, shopping products, and contact.
+3. Dedicated sections for tourist guides, foods, shopping products, and contact.
 
-4.Responsive design for mobile and desktop users.
+4. Responsive design for mobile and desktop users.
 
-5.Simple, clear, and visually appealing interface suitable for tourists and learners.
+5. Simple, clear, and visually appealing interface suitable for tourists and learners.
